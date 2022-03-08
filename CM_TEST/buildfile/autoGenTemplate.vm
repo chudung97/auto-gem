@@ -1,0 +1,8 @@
+package ${packageName};
+import org.testng.annotations.Test;
+import org.openqa.selenium.By;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import automation.common.ManageAccount;
+
+public final class ${className} extends automation.common.CommonBase{ 		${classCode} }

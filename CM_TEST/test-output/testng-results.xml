@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5343" started-at="2022-02-08T07:55:39Z" finished-at="2022-02-08T07:55:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5343" started-at="2022-02-08T07:55:39Z" finished-at="2022-02-08T07:55:44Z">
+      <class name="automation.testsuite.TS_Test">
+        <test-method status="PASS" signature="init()[pri:0, instance:automation.testsuite.TS_Test@5f341870]" name="init" is-config="true" duration-ms="4374" started-at="2022-02-08T14:55:39Z" finished-at="2022-02-08T14:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="Epic1_Story1_SignInPage()[pri:0, instance:automation.testsuite.TS_Test@5f341870]" name="Epic1_Story1_SignInPage" duration-ms="7" started-at="2022-02-08T14:55:43Z" finished-at="2022-02-08T14:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Epic1_Story1_SignInPage -->
+        <test-method status="PASS" signature="after()[pri:0, instance:automation.testsuite.TS_Test@5f341870]" name="after" is-config="true" duration-ms="950" started-at="2022-02-08T14:55:43Z" finished-at="2022-02-08T14:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- automation.testsuite.TS_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
